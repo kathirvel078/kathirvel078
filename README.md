@@ -3,8 +3,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
+- 👨‍💻 All of my projects are available at [https://kathirvel-profile.netlify.app/](https://kathirvel-profile.netlify.app/)
+
 - 📫 How to reach me **kathirvelvlr108@gmail.com**
-- My Portfolo link https://kathirvel-profile.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
