@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **kathirvelvlr108@gmail.com**
-- My Porfolo link ![This link is broken](https://kathirvel-profile.netlify.app/)
+- My Portfolo link [link](https://kathirvel-profile.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
