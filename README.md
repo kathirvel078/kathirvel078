@@ -1,20 +1,97 @@
-<h1 align="center">Hi 👋, I'm kathirvel</h1>
-<h3 align="center">A passionate Fullstack Web developer in Java</h3>
+<h1 align="center">Hi 👋, I'm Kathirvel</h1>
+<h3 align="center">Full Stack Developer | Java • Node.js • React.js • AWS</h3>
 
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://kathirvel-profile.netlify.app/](https://kathirvel-profile.netlify.app/)
-
-- 📫 How to reach me **kathirvelvlr108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://kathirvel-profile.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://github.com/kathirvelvlr" target="_blank">GitHub</a> •
+  <a href="https://linkedin.com/in/kathirvelvlr" target="_blank">LinkedIn</a> •
+  <a href="https://leetcode.com/kathirvelvlr" target="_blank">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</a> </p>
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **Agentic RAG systems & full-stack apps**
+- 🌱 I’m learning **Data Structures & Algorithms** (60+ LeetCode problems)
+- 👨‍💻 All my projects: [kathirvel-profile.netlify.app](https://kathirvel-profile.netlify.app/)
+- 📫 Reach me: **kathirvelvlr108@gmail.com**
+- ⚡ Fun fact: I built an AI system that reduces hallucination in LLMs
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+Java • JavaScript (ES6+) • SQL  
+
+**Frontend**  
+React.js • HTML5 • CSS3 • Responsive Design • State Management  
+
+**Backend**  
+Node.js • Express.js • Spring Boot (Basic) • REST API • Microservices  
+
+**Database**  
+MySQL • Oracle • Vector DB • ACID Transactions  
+
+**Cloud & DevOps**  
+AWS (EC2, S3, IAM, Fargate) • Docker • Git • GitHub Actions  
+
+**AI / Concepts**  
+RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • RBAC
+
+---
+
+### 💼 Experience
+
+**Software Developer Intern @ Spiritmine Tech** (Mar 2025 – Present)  
+- Built scalable REST APIs with JWT auth and CRUD architecture using React + Node.js  
+- Designed an **Agentic RAG system** (Node.js + Vector DB) for semantic search & context-aware LLM responses  
+- Deployed full-stack apps on AWS (EC2, S3, Fargate) using Docker & Git-based CI/CD
+
+---
+
+### 🧠 Featured Projects
+
+#### 🔍 Agent RAG – AI Document Q&A System  
+*React.js, Node.js, Express, Vector DB, LLM API, Docker*  
+- Full RAG pipeline: ingestion → chunking → embeddings → similarity search → LLM generation  
+- ChatGPT-style UI with file upload & real-time SSE streaming  
+- Containerized & deployed on AWS
+
+#### 🅿️ SmartPark – Parking Management System  
+*Spring Boot, React.js, MySQL, JWT, RBAC*  
+- Handles 200+ real-time bookings with zone-based slot tracking  
+- 20+ REST endpoints with role-based access (Admin/User/Operator)  
+- Responsive frontend improving booking efficiency by 40%
+
+---
+
+### 📜 Certifications & Achievements
+
+- **Java Full Stack Developer** – QSpiders Chennai (2024)  
+- **Academic Project Award** – SmartPark recognized as top final-year project  
+- **LeetCode** – 60+ problems (Arrays, Trees, Recursion, HashMaps)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathirvelvlr&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathirvelvlr&theme=radical" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- Email: kathirvelvlr108@gmail.com  
+- Portfolio: [https://kathirvel-profile.netlify.app/](https://kathirvel-profile.netlify.app/)  
+- LeetCode: [https://leetcode.com/kathirvelvlr](https://leetcode.com/kathirvelvlr)
+
+---
+
+<p align="center">
+  <i>“Building production-grade systems & AI pipelines — one commit at a time.”</i>
+</p>
