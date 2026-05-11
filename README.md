@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://kathirvel-profile.netlify.app/" target="_blank">Portfolio</a> •
-  <a href="https://github.com/kathirvelvlr" target="_blank">GitHub</a> •
-  <a href="https://linkedin.com/in/kathirvelvlr" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/kathirvelvlr" target="_blank">LeetCode</a>
+  <a href="https://github.com/kathirvel078" target="_blank">GitHub</a> •
+  <a href="https://linkedin.com/in/kathirvel14" target="_blank">LinkedIn</a> •
+  <a href="https://leetcode.com/u/kathircse/" target="_blank">LeetCode</a>
 </p>
 
 ---
