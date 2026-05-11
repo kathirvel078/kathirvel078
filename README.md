@@ -74,14 +74,6 @@ RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kathirvelvlr&show_icons=true&theme=radical" alt="GitHub stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathirvelvlr&theme=radical" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
