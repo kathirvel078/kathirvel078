@@ -69,8 +69,7 @@ RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • 
 
 ### 📜 Certifications & Achievements
 
-- **Java Full Stack Developer** – QSpiders Chennai (2024)  
-- **Academic Project Award** – SmartPark recognized as top final-year project  
+- **Java Full Stack Developer** – QSpiders Chennai (2025)  
 - **LeetCode** – 60+ problems (Arrays, Trees, Recursion, HashMaps)
 
 ---
@@ -78,7 +77,7 @@ RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathirvelvlr&show_icons=true&theme=radical" alt="GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kathirvelvlr&show_icons=true&theme=radical" alt="GitHub stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathirvelvlr&theme=radical" />
 </p>
 
