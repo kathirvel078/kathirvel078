@@ -67,14 +67,6 @@ RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • 
 
 ---
 
-### 📜 Certifications & Achievements
-
-- **Java Full Stack Developer** – QSpiders Chennai (2025)  
-- **LeetCode** – 60+ problems (Arrays, Trees, Recursion, HashMaps)
-
----
-
-
 ### 📫 Let's Connect
 
 - Email: kathirvelvlr108@gmail.com  
