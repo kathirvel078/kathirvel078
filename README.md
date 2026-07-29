@@ -46,15 +46,13 @@ RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • 
 
 **Software Developer Intern @ Spiritmine Tech** (Mar 2025 – Present)  
 - Built scalable REST APIs with JWT auth and CRUD architecture using React + Node.js  
-- Designed an **Agentic RAG system** (Node.js + Vector DB) for semantic search & context-aware LLM responses  
-- Deployed full-stack apps on AWS (EC2, S3, Fargate) using Docker & Git-based CI/CD
+- Designed an **Agentic RAG system** for semantic search & context-aware LLM responses  
 
 ---
 
 ### 🧠 Featured Projects
 
 #### 🔍 Agent RAG – AI Document Q&A System  
-*React.js, Node.js, Express, Vector DB, LLM API, Docker*  
 - Full RAG pipeline: ingestion → chunking → embeddings → similarity search → LLM generation  
 - ChatGPT-style UI with file upload & real-time SSE streaming  
 - Containerized & deployed on AWS
