@@ -29,7 +29,7 @@ Java • JavaScript (ES6+) • SQL
 React.js • HTML5 • CSS3 • Responsive Design • State Management  
 
 **Backend**  
-Node.js • Express.js • Spring Boot (Basic) • REST API • Microservices  
+FastAPI • Spring Boot (Basic) • REST API • Microservices  
 
 **Database**  
 MySQL • Oracle • Vector DB • ACID Transactions  
