@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kathirvel</h1>
-<h3 align="center">Full Stack Developer | Java • Node.js • React.js • AWS</h3>
+<h3 align="center">Full Stack Developer | Java • React.js </h3>
 
 <p align="center">
   <a href="https://kathirvel-profile.netlify.app/" target="_blank">Portfolio</a> •
