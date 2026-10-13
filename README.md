@@ -23,28 +23,28 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-Java • JavaScript (ES6+) • SQL  
+Java •Python • JavaScript (ES6+) • SQL  
 
 **Frontend**  
-React.js • HTML5 • CSS3 • Responsive Design • State Management  
+React.js • HTML5 • CSS3 
 
 **Backend**  
 FastAPI • Spring Boot (Basic) • REST API • Microservices  
 
 **Database**  
-MySQL • Oracle • Vector DB • ACID Transactions  
+MySQL  
 
 **Cloud & DevOps**  
-AWS (EC2, S3, IAM, Fargate) • Docker • Git • GitHub Actions  
+AWS (EC2, S3, IAM, Fargate)  • Git • GitHub Actions  
 
 **AI / Concepts**  
-RAG Pipeline • LLM Integration • Embeddings • Semantic Search • JWT • RBAC
+RAG  • LLM Integration 
 
 ---
 
 ### 💼 Experience
 
-**Software Developer Intern @ Spiritmine Tech** (Mar 2025 – Present)  
+**Software Developer Intern @ Spiritmine Tech**   
 - Built scalable REST APIs with JWT auth and CRUD architecture using React + Node.js  
 - Designed an **Agentic RAG system** for semantic search & context-aware LLM responses  
 
